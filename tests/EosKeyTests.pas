@@ -1,6 +1,6 @@
 unit EosKeyTests;
 
-interface
+interface
 
 uses
   SysUtils,
@@ -244,4 +244,3 @@ initialization
 RegisterTest(TTestEosKey.Suite);
 
 end.
-
