@@ -1,6 +1,6 @@
 unit EosKeyTests;
-
-interface
+
+interface
 
 uses
   SysUtils,
